@@ -1,0 +1,16 @@
+﻿  Game.cpp
+c:\users\cathal\desktop\finitestatemachinecurrentversion\finitestatemachine\game.cpp(13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Animation.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+  Walking.cpp
+  Swordmanship.cpp
+  State.cpp
+  Shovelling.cpp
+  Jumping.cpp
+  Idle.cpp
+  Hammering.cpp
+  Generating Code...
+  FiniteStateMachine.vcxproj -> C:\Users\Cathal\Desktop\FiniteStateMachineCurrentVersion\Debug\FiniteStateMachine.exe
+  FiniteStateMachine.vcxproj -> C:\Users\Cathal\Desktop\FiniteStateMachineCurrentVersion\Debug\FiniteStateMachine.pdb (Partial PDB)
